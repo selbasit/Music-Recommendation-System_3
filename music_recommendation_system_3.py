@@ -13,7 +13,6 @@ import pandas as pd
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
 import pandas as pd
-import seaborn as sns
 import numpy as np
 
 # Load the Data:
